@@ -9,6 +9,9 @@ html {
 }
 
 .page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
@@ -16,9 +19,6 @@ html {
   font-family: 'Fira Sans Condensed', Arial, sans-serif;
   font-size: 18px;
   background-color: #1b1919;
-  display: flex;
-  padding: 133px 30px;
-  align-items: center;
 }
 
 h1,
@@ -52,10 +52,11 @@ ol {
 
 .content {
   display: flex;
-  justify-content: center;
-  align-items: flex-end;
+  justify-content: space-between;
+  align-items: end;
   gap: 30px;
-  block-size: 100%;
+  padding: 30px;
+  inline-size: 100%;
 }
 
 .result {
