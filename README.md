@@ -1,1 +1,1 @@
-https://github.com/hazar84/ono-tebe-nado.git
+https://github.com/hazar84/posmotri_v_okno.git
