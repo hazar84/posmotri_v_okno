@@ -221,9 +221,7 @@ input[type='checkbox']:checked + span {
 .content__details {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
   gap: 26px;
-  block-size: 100%;
   inline-size: 100%;
 }
 
@@ -243,11 +241,10 @@ input[type='checkbox']:checked + span {
 
 .content__list {
   display: flex;
-  height: 298px;
   flex-direction: column;
   gap: 30px;
   overflow: auto;
-  block-size: 100%;
+  block-size: 298px;;
   position: relative;
 }
 
