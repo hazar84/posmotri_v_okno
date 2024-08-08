@@ -192,7 +192,7 @@ ol {
   flex-direction: row;
   align-items: flex-start;
   gap: 15px;
-  padding: 2px;
+  padding-bottom: 6px;
 }
 
 .search-form__pseudo-checkbox {
