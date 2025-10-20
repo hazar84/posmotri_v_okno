@@ -61,7 +61,7 @@ posmotri-v-okno/
 
 **1. Клонирование репозитория**
 ```bash
-git clone [URL репозитория]
+git clone https://github.com/hazar84/posmotri_v_okno.git
 ```
 **2. Переход в папку проекта**
 ```bash
